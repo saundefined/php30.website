@@ -3,7 +3,7 @@
 return [
     'production' => false,
     'baseUrl' => '',
-    'title' => 'PHP 30',
+    'title' => 'PHP turns 30!',
     'description' => 'PHP turns 30!',
     'getText' => function ($page) {
         return trim(
